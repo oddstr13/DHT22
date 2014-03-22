@@ -1,5 +1,6 @@
 DHT
 ===
+***This is a stripped down version of https://github.com/markruys/arduino-DHT***
 
 An Arduino library for reading the DHT family of temperature and humidity sensors.
 
